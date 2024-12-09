@@ -1,0 +1,11 @@
+{
+    "forecast": [
+      { "date": "2024-12-10", "temp": 5, "condition": "Bewölkt" },
+      { "date": "2024-12-11", "temp": 7, "condition": "Leichter Regen" },
+      { "date": "2024-12-12", "temp": 4, "condition": "Sonnig" },
+      { "date": "2024-12-13", "temp": 6, "condition": "Teilweise bewölkt" },
+      { "date": "2024-12-14", "temp": 3, "condition": "Schneefall" }
+    ]
+  }
+
+  
